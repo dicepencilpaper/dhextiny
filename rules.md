@@ -62,11 +62,11 @@ An entity will recover ability points in the following manners:
 * Full rest: Whenever the entity is able to fully rest (sleep peacefully for 6-8 hours), they will recover all their AP up to their current APP maximum.
 * Failure: Every time the entity has a result of [F], either through using AP, or a natural die roll result, they will add +2 AP to their pool.
 
-### Damage and health
+## Damage and health
 
 Player and non-player characters starts with 6 life points (LP). Creatures can have lower or higher LP amounts. Whenever an entity reaches 0 LP, they are dying.
 
-#### Death
+### Death
 
 When an entity reaches 0 LP, they are dying. At this point, on the next opportunity, they must roll 1d6 and check their Dhextiny result, then consult the following table:
 
@@ -79,7 +79,7 @@ When an entity reaches 0 LP, they are dying. At this point, on the next opportun
 
 If an entity reaches -6 LP, they die immediately. This rule can be applied to creatures and monsters if so desired, especially if said creatures are powerful and/or important to the adventure.
 
-#### Attacks
+### Attacks
 
 An attack will only succeed and cause damage if the Dhextiny result is [P] or [PS]. The damage caused by the attack is determined by the amount of Dhextiny results the token moved for the attack action. For example, if a player rolls 3 on their attack action, and then spend 2 AP to alter the result to a [PS] or [S], their attack will inflict a total of 5 points. However, the type of points lost by the victim of the attack varies, depending on the Dhextiny result, as shown in the table below:
 
@@ -90,6 +90,8 @@ An attack will only succeed and cause damage if the Dhextiny result is [P] or [P
 
 When an entity is attacked and hit with a final result of [S], they lose LP. When the attack result is [PS], they don't lose LP, but rather lose ability points, as a representation of the fatigue of combat. However, if the victim's APP is at zero at the moment, they lose 1 LP by the attack.
 
-### Character advancement
+### Conditions
 
-A character advances by increasing their MSK on one or more skills. TBD DEFINE HOW IT'S DONE.
+Some things might inflict an entity with a perjudicial effect that lasts for a certain time.
+
+* Aflame: The entity has caught fire. Any fire effect will last for 1d6 rounds, or until put out. To put the fire out, a Dhextiny check must be performed. If the result is [S] or [PS], the flames are extinguished.
