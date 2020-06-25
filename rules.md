@@ -8,11 +8,8 @@ A tabletop role-playing system
 Dhextiny uses uses a variable success and failure mechanism that provides varied results and outcomes in game actions, as opposed to the usual binary result systems seen in most tabletop role-playing systems. There are four possible results to any action performed in the game:
 
 * Success (S): The action was unequivocally successful and the action intended took place without any reservations or complications for whoever is executing the action.
-
 * Partial Success (PS): The action succeeds, but not exactly as intended or does not fully cause the intended effect, which could even possibly be detrimental for whoever is taking the action.
-
 * Partial Failure (PF): The action fails, but not completely. something happened that does not make the result completely negative for the player performing the action.
-
 * Failure (F): The action fails completely, with any consequential results this might have.
 
 ### Action resolution
@@ -41,9 +38,7 @@ At the end of a game session, the Game Master can note down the last Dhextiny re
 An entity can be any of the following:
 
 * Player Character (PC): Used by each player to adventure in this imaginary world.
-
 * Non-Player Character (NPC): A character controlled by the Game Master.
-
 * Monsters & Creatures: As the description implies, these are savage beasts of natural or supernatural origin that can be found in adventures, also controlled by the Game Master.
 
 Entities are not defined by aspects such as strength or intelligence. Rather, besides the personality and character traits imbued into them by their players, they are defined by abilities. An ability is defined as the possession of the means or skill to do something; having a talent, skill, or proficiency in a particular area.
@@ -65,7 +60,6 @@ To change their Dhextiny to different result, players spend AP to move the token
 An entity will recover ability points in the following manners:
 
 * Full rest: Whenever the entity is able to fully rest (sleep peacefully for 6-8 hours), they will recover all their AP up to their current APP maximum.
-
 * Failure: Every time the entity has a result of [F], either through using AP, or a natural die roll result, they will add +2 AP to their pool.
 
 ### Damage and health
