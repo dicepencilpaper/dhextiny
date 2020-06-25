@@ -16,14 +16,7 @@ Dhextiny uses uses a variable success and failure mechanism that provides varied
 
 All resolution mechanics for all actions are determined using two items: a single six-sided die (d6), and the Dhextiny board. This boards consists of a hexagon, in which each point has an area with a marking denoting an action result as shown below:
 
-                          [S]
-                         /   \
-                    ^ [PS]   [PS]
-                    |   |     |   |
-                      [PF]   [PF] V
-                         \   /
-                          [F]
-                           s
+<img src="dhextiny_board_600.jpg" height="400" width="400" />
 
 At the beginning of a game session, a token is placed on the [F] Dhextiny as the starting point (marked by the "s" in the above diagram). When an action takes place that requires a check to see if it succeeds, the player will roll 1d6, and move the token clockwise, point by point, for each number rolled. The Dhextiny where the token ends up determines the result of the action.
 
